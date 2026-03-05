@@ -1,1 +1,3 @@
 # Weather-app
+
+A simple weather app exercise to familiarize with asyncronous code and its functions, such as .then(), finally() ...
